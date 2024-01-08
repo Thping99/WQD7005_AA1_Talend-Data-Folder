@@ -1,0 +1,14 @@
+2024-01-08 15:11:13,578 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   Start 'logOnProject', logon project name 'WQD7005_AA1_INTEGRATION' ...
+2024-01-08 15:11:13,971 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Install components', elapsed time since previous step: 393 ms
+2024-01-08 15:11:13,976 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'beforeLogon', elapsed time since previous step: 5 ms
+2024-01-08 15:11:14,682 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'Sync components libraries', elapsed time since previous step: 706 ms
+2024-01-08 15:11:14,726 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(beforeLogonTasks)', elapsed time since previous step: 44 ms
+2024-01-08 15:11:15,139 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'logOnProject', elapsed time since previous step: 413 ms
+2024-01-08 15:11:15,289 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'executeMigrations(afterLogonTasks)', elapsed time since previous step: 150 ms
+2024-01-08 15:11:15,298 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean Java project', elapsed time since previous step: 9 ms
+2024-01-08 15:11:15,325 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'clean workspace history', elapsed time since previous step: 27 ms
+2024-01-08 15:11:15,328 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   -> 'logOnProject', step name 'sync log4j', elapsed time since previous step: 3 ms
+2024-01-08 15:11:15,331 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', elapsed time since last request: 3 ms 
+2024-01-08 15:11:15,332 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  -   End 'logOnProject', total elapsed time: 1754 ms 
+2024-01-08 15:11:26,693 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist
+2024-01-08 15:11:38,685 INFO  org.talend.commons.utils.time.TimeMeasurePerformance  - Warning (end): timer logOnProject does'nt exist

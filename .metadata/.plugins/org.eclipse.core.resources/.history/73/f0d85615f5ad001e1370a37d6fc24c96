@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="__6LZAa13Ee6RlIBtfXoM4g" id="__6LZAK13Ee6RlIBtfXoM4g" label="ParAccelCommit" version="0.1" item="__6LZA613Ee6RlIBtfXoM4g">
+    <author href="../../../talend.project#__kdnsK13Ee6RlIBtfXoM4g"/>
+    <additionalProperties xmi:id="__6MnIK13Ee6RlIBtfXoM4g" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="__6MnIa13Ee6RlIBtfXoM4g" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="__6MnIq13Ee6RlIBtfXoM4g" key="created_date" value="2024-01-07T23:45:39.666+0800"/>
+    <additionalProperties xmi:id="__6MnI613Ee6RlIBtfXoM4g" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="__6MnJK13Ee6RlIBtfXoM4g" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="__6MnJa13Ee6RlIBtfXoM4g" key="modified_date" value="2024-01-07T23:45:39.666+0800"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="__6LZAq13Ee6RlIBtfXoM4g" path="ParAccel/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="__6LZA613Ee6RlIBtfXoM4g" property="__6LZAa13Ee6RlIBtfXoM4g" state="__6LZAq13Ee6RlIBtfXoM4g" system="true" eltName="ParAccel">
+    <content href="ParAccelCommit_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>
